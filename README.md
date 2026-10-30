@@ -1,8 +1,3 @@
-Este proyecto es mi primer sitio web personal, realizado con HTML y CSS.
+Para este proyecto propuse un portfolio web personal cuyo objetivo principal fue trasladar fielmente a código html y css la maquetación y el sistema visual previamente diseñados en Figma. Para lograrlo, estructuré el sitio mediante una arquitectura modular compuesta por archivos HTML independientes para cada sección vinculados a una única hoja de estilos. El diseño se apoya en un fuerte contraste visual con una paleta de tonos negros y blanco, utilizando el rojo puro como color de acento y tipografía Alegreya.
 
-Resolución de trabajo: 1920 × 1080 px
-Editor utilizado: Visual Studio Code
-Tipografía: Alegreya, mediante @font-face
-Maquetación: Flexbox
-Se utilizaron etiquetas semánticas como header, nav, main, section y footer.
-También se incorporó un favicon y diferentes imágenes para la presentación visual.
+A nivel técnico incorporé atributos estrictos de ancho y alto en los recursos multimedia e imágenes, garanticé el uso del favicon en todas las secciones html e integré soporte para video en la subsección de Aguará. Todo este proceso me permitió resolver la traducción de las decisiones del Figma a un entorno web funcional.
